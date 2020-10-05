@@ -1,0 +1,192 @@
+
+CRDMPA-S-3AS01
+W 07/10/20 16:17:04 FFI: port 12-Excessive Broadcasts. See help.
+W 07/11/20 15:47:10 FFI: port 1-Excessive Broadcasts. See help.
+W 07/20/20 09:26:15 FFI: port 12-Excessive Broadcasts. See help.
+*********************************************************************************************
+CRDMPA-S-3AS02# sh logging -w FFI
+W 07/14/20 23:32:40 FFI: port 5-Excessive Broadcasts. See help.
+W 07/14/20 23:34:25 FFI: port 5-Excessive Broadcasts. See help.
+W 07/15/20 09:02:59 FFI: port 5-Excessive Broadcasts. See help.
+W 07/16/20 09:03:00 FFI: port 5-Excessive Broadcasts. See help.
+W 07/17/20 07:52:12 FFI: port 5-Excessive Broadcasts. See help.
+W 07/17/20 15:45:13 FFI: port 5-Excessive Broadcasts. See help.
+W 07/17/20 15:45:45 FFI: port 5-Excessive Broadcasts. See help.
+W 07/18/20 15:26:13 FFI: port 5-Excessive Broadcasts. See help.
+W 07/19/20 12:42:05 FFI: port 5-Excessive Broadcasts. See help.
+W 07/19/20 15:35:30 FFI: port 5-Excessive Broadcasts. See help.
+***********************************************************************************************
+CRDMPA-S-3AS03# sh logging -w FFI
+ Keys:   W=Warning   I=Information
+         M=Major     D=Debug
+----  Event Log listing: Events Since Boot  ----
+W 07/06/20 10:49:49 FFI: port 13-Excessive CRC/alignment errors. See help.
+W 07/06/20 11:03:39 FFI: port 1-Excessive Broadcasts. See help.
+W 07/06/20 11:03:39 FFI: port 13-Excessive CRC/alignment errors. See help.
+W 07/06/20 11:05:55 FFI: port 1-Excessive Broadcasts. See help.
+W 07/06/20 11:05:55 FFI: port 13-Excessive CRC/alignment errors. See help.
+W 07/06/20 11:06:27 FFI: port 1-Excessive Broadcasts. See help.
+W 07/07/20 07:53:36 FFI: port 17-Excessive Broadcasts. See help.
+W 07/07/20 08:02:00 FFI: port 13-Excessive CRC/alignment errors. See help.
+W 07/07/20 09:27:35 FFI: port 6-Excessive Broadcasts. See help.
+W 07/07/20 16:07:59 FFI: port 13-Excessive CRC/alignment errors. See help.
+W 07/08/20 09:40:26 FFI: port 13-Excessive CRC/alignment errors. See help.
+W 07/08/20 13:43:09 FFI: port 13-Excessive CRC/alignment errors. See help.
+W 07/08/20 13:47:42 FFI: port 13-Excessive CRC/alignment errors. See help.
+W 07/08/20 13:49:17 FFI: port 13-Excessive CRC/alignment errors. See help.
+W 07/09/20 13:37:48 FFI: port 1-Excessive Broadcasts. See help.
+W 07/09/20 13:37:48 FFI: port 13-Excessive CRC/alignment errors. See help.
+W 07/09/20 13:39:23 FFI: port 1-Excessive Broadcasts. See help.
+W 07/09/20 13:44:17 FFI: port 13-Excessive CRC/alignment errors. See help.
+W 07/09/20 16:46:59 FFI: port 13-Excessive CRC/alignment errors. See help.
+W 07/10/20 08:38:27 FFI: port 13-Excessive CRC/alignment errors. See help.
+W 07/10/20 16:22:23 FFI: port 13-Excessive CRC/alignment errors. See help.
+W 07/13/20 08:22:52 FFI: port 1-Excessive Broadcasts. See help.
+W 07/13/20 08:40:22 FFI: port 21-Excessive Broadcasts. See help.
+W 07/13/20 08:41:46 FFI: port 21-Excessive Broadcasts. See help.
+W 07/13/20 16:21:40 FFI: port 13-Excessive CRC/alignment errors. See help.
+W 07/13/20 16:21:40 FFI: port 13-Excessive Broadcasts. See help.
+W 07/14/20 08:35:43 FFI: port 21-Excessive Broadcasts. See help.
+W 07/14/20 14:02:37 FFI: port 13-Excessive CRC/alignment errors. See help.
+W 07/14/20 14:02:37 FFI: port 13-Excessive Broadcasts. See help.
+W 07/15/20 07:37:31 FFI: port 17-Excessive Broadcasts. See help.
+W 07/15/20 08:51:43 FFI: port 21-Excessive Broadcasts. See help.
+W 07/15/20 08:56:05 FFI: port 21-Excessive Broadcasts. See help.
+W 07/15/20 09:29:52 FFI: port 13-Excessive CRC/alignment errors. See help.
+W 07/15/20 09:29:52 FFI: port 13-Excessive Broadcasts. See help.
+W 07/16/20 07:13:43 FFI: port 21-Excessive Broadcasts. See help.
+W 07/16/20 07:18:06 FFI: port 21-Excessive Broadcasts. See help.
+W 07/16/20 07:47:40 FFI: port 13-Excessive CRC/alignment errors. See help.
+W 07/16/20 07:47:40 FFI: port 13-Excessive Broadcasts. See help.
+W 07/16/20 15:28:37 FFI: port 13-Excessive CRC/alignment errors. See help.
+W 07/16/20 15:28:37 FFI: port 13-Excessive Broadcasts. See help.
+W 07/17/20 08:50:03 FFI: port 21-Excessive Broadcasts. See help.
+W 07/20/20 07:18:30 FFI: port 13-Excessive CRC/alignment errors. See help.
+W 07/20/20 07:18:30 FFI: port 13-Excessive Broadcasts. See help.
+W 07/20/20 08:19:45 FFI: port 21-Excessive Broadcasts. See help.
+W 07/20/20 08:40:56 FFI: port 1-Excessive Broadcasts. See help.
+W 07/21/20 08:39:57 FFI: port 13-Excessive CRC/alignment errors. See help.
+W 07/21/20 08:39:57 FFI: port 13-Excessive Broadcasts. See help.
+W 07/21/20 12:04:11 FFI: port 10-Excessive Broadcasts. See help.
+W 07/21/20 12:04:42 FFI: port 10-Excessive Broadcasts. See help.
+----  Bottom of Log : Events Listed = 50  ----
+
+*********************************************************************************************
+CRDMPCORMIAS01# sh logging -w FFI
+ Keys:   W=Warning   I=Information
+         M=Major     D=Debug
+----  Event Log listing: Events Since Boot  ----
+W 07/13/20 22:42:21 FFI: port 3-Excessive Broadcasts. See help.
+W 07/13/20 22:43:14 FFI: port 3-Excessive Broadcasts. See help.
+W 07/15/20 07:51:52 FFI: port 5-Excessive Broadcasts. See help.
+W 07/16/20 09:13:19 FFI: port 3-Excessive Broadcasts. See help.
+W 07/16/20 09:45:52 FFI: port 3-Excessive Broadcasts. See help.
+W 07/16/20 23:14:01 FFI: port 3-Excessive Broadcasts. See help.
+W 07/17/20 07:40:59 FFI: port 3-Excessive Broadcasts. See help.
+W 07/17/20 07:41:41 FFI: port 3-Excessive Broadcasts. See help.
+W 07/17/20 07:42:23 FFI: port 3-Excessive Broadcasts. See help.
+W 07/17/20 15:32:01 FFI: port 3-Excessive Broadcasts. See help.
+W 07/17/20 19:02:12 FFI: port 5-Excessive Broadcasts. See help.
+W 07/18/20 23:45:25 FFI: port 5-Excessive Broadcasts. See help.
+W 07/19/20 07:27:46 FFI: port 3-Excessive Broadcasts. See help.
+W 07/19/20 08:02:57 FFI: port 3-Excessive Broadcasts. See help.
+W 07/19/20 18:08:58 FFI: port 5-Excessive Broadcasts. See help.
+W 07/20/20 04:53:30 FFI: port 5-Excessive Broadcasts. See help.
+W 07/20/20 04:54:01 FFI: port 5-Excessive Broadcasts. See help.
+W 07/20/20 07:32:03 FFI: port 3-Excessive Broadcasts. See help.
+----  Bottom of Log : Events Listed = 18  ----
+******************************************************************************************************
+CRDMPB-117AS02# sh logging -w FFI
+ Keys:   W=Warning   I=Information
+         M=Major     D=Debug
+----  Event Log listing: Events Since Boot  ----
+W 07/06/20 12:41:14 FFI: port 9-Excessive Broadcasts. See help.
+W 07/06/20 12:42:06 FFI: port 9-Excessive Broadcasts. See help.
+W 07/11/20 15:44:56 FFI: port 26-Excessive Broadcasts. See help.
+W 07/13/20 15:42:55 FFI: port 26-Excessive Broadcasts. See help.
+W 07/20/20 11:46:57 FFI: port 19-Excessive Broadcasts. See help.
+----  Bottom of Log : Events Listed = 5  ----
+**************************************************************************************************************
+CRDMPJEUNEAS01# sh logging -w FFI
+ Keys:   W=Warning   I=Information
+         M=Major     D=Debug
+----  Event Log listing: Events Since Boot  ----
+----  Bottom of Log : Events Listed = 0  ----
+***************************************************************************************************************
+CRDMPA-002AS01# sh logging -w FFI
+ Keys:   W=Warning   I=Information
+         M=Major     D=Debug
+----  Event Log listing: Events Since Boot  ----
+W 07/13/20 15:52:19 FFI: port 23-Excessive Broadcasts. See help.
+W 07/13/20 16:35:43 FFI: port 23-Excessive Broadcasts. See help.
+----  Bottom of Log : Events Listed = 2  ----
+******************************************************************************************************************
+CRDMPB-117AS01# sh logging -w FFI
+ Keys:   W=Warning   I=Information
+         M=Major     D=Debug
+----  Event Log listing: Events Since Boot  ----
+W 07/09/20 09:31:53 FFI: port 12-Excessive Broadcasts. See help.
+W 07/09/20 16:20:28 FFI: port 19-Excessive Broadcasts. See help.
+W 07/09/20 16:21:45 FFI: port 25-Excessive Broadcasts. See help.
+W 07/10/20 07:40:36 FFI: port 19-Excessive Broadcasts. See help.
+W 07/10/20 07:41:20 FFI: port 19-Excessive Broadcasts. See help.
+W 07/10/20 08:39:43 FFI: port 29-Excessive Broadcasts. See help.
+W 07/10/20 12:14:30 FFI: port 25-Excessive Broadcasts. See help.
+W 07/10/20 16:21:21 FFI: port 25-Excessive Broadcasts. See help.
+W 07/11/20 12:25:10 FFI: port 42-Excessive CRC/alignment errors. See help.
+W 07/12/20 00:16:08 FFI: port 42-Excessive CRC/alignment errors. See help.
+W 07/13/20 07:30:50 FFI: port 19-Excessive Broadcasts. See help.
+W 07/13/20 07:42:04 FFI: port 6-Excessive CRC/alignment errors. See help.
+W 07/13/20 07:42:04 FFI: port 6-Excessive Broadcasts. See help.
+W 07/13/20 07:51:38 FFI: port 7-Excessive Broadcasts. See help.
+W 07/13/20 08:05:39 FFI: port 3-Excessive Broadcasts. See help.
+W 07/13/20 08:10:04 FFI: port 25-Excessive Broadcasts. See help.
+W 07/13/20 14:49:15 FFI: port 32-Excessive CRC/alignment errors. See help.
+W 07/13/20 14:49:15 FFI: port 32-Excessive Broadcasts. See help.
+W 07/13/20 15:09:31 FFI: port 32-Excessive CRC/alignment errors. See help.
+W 07/13/20 15:09:31 FFI: port 32-Excessive Broadcasts. See help.
+W 07/13/20 16:10:18 FFI: port 6-Excessive CRC/alignment errors. See help.
+W 07/13/20 16:10:18 FFI: port 6-Excessive Broadcasts. See help.
+W 07/13/20 16:23:34 FFI: port 19-Excessive Broadcasts. See help.
+W 07/14/20 08:11:53 FFI: port 25-Excessive Broadcasts. See help.
+W 07/14/20 15:58:51 FFI: port 6-Excessive CRC/alignment errors. See help.
+W 07/14/20 15:58:51 FFI: port 6-Excessive Broadcasts. See help.
+W 07/14/20 16:22:58 FFI: port 19-Excessive Broadcasts. See help.
+W 07/15/20 07:32:36 FFI: port 19-Excessive Broadcasts. See help.
+W 07/15/20 16:15:23 FFI: port 19-Excessive Broadcasts. See help.
+W 07/15/20 16:22:12 FFI: port 25-Excessive Broadcasts. See help.
+W 07/16/20 07:32:01 FFI: port 19-Excessive Broadcasts. See help.
+W 07/16/20 08:01:29 FFI: port 6-Excessive CRC/alignment errors. See help.
+W 07/16/20 08:01:29 FFI: port 6-Excessive Broadcasts. See help.
+W 07/16/20 08:05:21 FFI: port 7-Excessive Broadcasts. See help.
+W 07/16/20 08:14:00 FFI: port 25-Excessive Broadcasts. See help.
+W 07/16/20 13:35:04 FFI: port 46-Excessive CRC/alignment errors. See help.
+W 07/16/20 13:35:04 FFI: port 46-Excessive Broadcasts. See help.
+W 07/16/20 15:53:14 FFI: port 46-Excessive CRC/alignment errors. See help.
+W 07/16/20 15:53:14 FFI: port 46-Excessive Broadcasts. See help.
+W 07/16/20 16:16:15 FFI: port 25-Excessive Broadcasts. See help.
+W 07/16/20 16:26:01 FFI: port 7-Excessive Broadcasts. See help.
+W 07/16/20 16:34:29 FFI: port 46-Excessive CRC/alignment errors. See help.
+W 07/16/20 16:34:29 FFI: port 46-Excessive Broadcasts. See help.
+W 07/17/20 07:36:01 FFI: port 19-Excessive Broadcasts. See help.
+W 07/17/20 07:36:34 FFI: port 19-Excessive Broadcasts. See help.
+W 07/17/20 08:24:50 FFI: port 6-Excessive CRC/alignment errors. See help.
+W 07/17/20 08:24:50 FFI: port 6-Excessive Broadcasts. See help.
+W 07/17/20 14:10:25 FFI: port 19-Excessive Broadcasts. See help.
+W 07/17/20 15:57:24 FFI: port 7-Excessive Broadcasts. See help.
+W 07/18/20 00:52:57 FFI: port 42-Excessive CRC/alignment errors. See help.
+W 07/19/20 00:07:26 FFI: port 42-Excessive CRC/alignment errors. See help.
+W 07/20/20 07:32:16 FFI: port 19-Excessive Broadcasts. See help.
+W 07/20/20 07:59:09 FFI: port 7-Excessive Broadcasts. See help.
+W 07/20/20 15:14:14 FFI: port 37-Excessive Broadcasts. See help.
+W 07/21/20 07:30:25 FFI: port 19-Excessive Broadcasts. See help.
+W 07/21/20 07:30:58 FFI: port 19-Excessive Broadcasts. See help.
+W 07/21/20 08:06:53 FFI: port 6-Excessive CRC/alignment errors. See help.
+W 07/21/20 08:06:53 FFI: port 6-Excessive Broadcasts. See help.
+W 07/21/20 08:07:26 FFI: port 6-Excessive CRC/alignment errors. See help.
+W 07/21/20 08:07:26 FFI: port 6-Excessive Broadcasts. See help.
+W 07/21/20 09:22:46 FFI: port 7-Excessive Broadcasts. See help.
+W 07/21/20 14:11:23 FFI: port 46-Excessive CRC/alignment errors. See help.
+W 07/21/20 14:11:23 FFI: port 46-Excessive Broadcasts. See help.
+----  Bottom of Log : Events Listed = 63  ----
+Tabluae Limited devices causing Excessive Broadcasts, Excessive CRC/alignment errors.
